@@ -1,15 +1,15 @@
 # ARRAYS
 
-[Find pair with given sum in the array
+[Find pair with given sum in the array - DONE
 ](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 
-[Check if subarray with 0 sum is exists or not
+[Check if subarray with 0 sum is exists or not - DONE
 ](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
 
-[Print all sub-arrays with 0 sum
+[Print all sub-arrays with 0 sum - DONE
 ](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 
-[Sort binary array in linear time
+[Sort binary array in linear time - DONE
 ](http://www.techiedelight.com/sort-binary-array-linear-time/)
 
 [Find a duplicate element in a limited range array
