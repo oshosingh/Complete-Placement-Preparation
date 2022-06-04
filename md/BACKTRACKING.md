@@ -6,7 +6,7 @@
 [Print all Possible Knight’s Tours in a chessboard
 ](http://www.techiedelight.com/print-possible-knights-tours-chessboard/)
 
-[Find Shortest Path in Maze
+[Find Shortest Path in Maze - DONE
 ](http://www.techiedelight.com/find-shortest-path-in-maze/)
 
 [Find Longest Possible Route in a Matrix
