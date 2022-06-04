@@ -24,7 +24,7 @@
 [Insert given node into the correct sorted position in the given sorted linked list - DONE
 ](http://www.techiedelight.com/sorted-insert-in-linked-list/)
 
-[Given a linked list, change it to be in sorted order
+[Given a linked list, change it to be in sorted order - DONE
 ](http://www.techiedelight.com/given-linked-list-change-sorted-order/)
 
 [Split the nodes of the given linked list into front and back halves
