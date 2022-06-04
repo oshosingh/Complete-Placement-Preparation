@@ -12,22 +12,22 @@
 [Sort binary array in linear time - DONE
 ](http://www.techiedelight.com/sort-binary-array-linear-time/)
 
-[Find a duplicate element in a limited range array
+[Find a duplicate element in a limited range array -DONE
 ](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 
-[Find largest sub-array formed by consecutive integers
+[Find largest sub-array formed by consecutive integers - DONE
 ](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 
-[Find maximum length sub-array having given sum
+[Find maximum length sub-array having given sum - DONE
 ](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 
-[Find maximum length sub-array having equal number of 0’s and 1’s
+[Find maximum length sub-array having equal number of 0’s and 1’s - DONE
 ](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
 
-[Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)
+[Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem) - DONE
 ](http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)
 
-[Inplace merge two sorted arrays
+[Inplace merge two sorted arrays - DONE
 ](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
 
 [Merge two arrays by satisfying given constraints
@@ -36,7 +36,7 @@
 [Find index of 0 to replaced to get maximum length sequence of continuous ones
 ](http://www.techiedelight.com/find-index-0-replaced-get-maximum-length-sequence-of-continuous-ones/)
 
-[Find maximum product of two integers in an array
+[Find maximum product of two integers in an array - DONE
 ](http://www.techiedelight.com/find-maximum-product-two-integers-array/)
 
 [Shuffle a given array of elements (Fisher–Yates shuffle)
