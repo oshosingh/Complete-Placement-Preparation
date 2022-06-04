@@ -1,27 +1,27 @@
 # LINKED LIST
 
-[Introduction to Linked Lists
+[Introduction to Linked Lists - DONE
 ](http://www.techiedelight.com/introduction-linked-lists/)
 
-[Linked List Implementation | Part 1
+[Linked List Implementation | Part 1 - DONE
 ](http://www.techiedelight.com/linked-list-implementation-part-1/)
 
-[Linked List Implementation | Part 2
+[Linked List Implementation | Part 2 - DONE
 ](http://www.techiedelight.com/linked-list-implementation-part-2/)
 
-[Static Linked List in C
+[Static Linked List in C - DONE
 ](http://www.techiedelight.com/static-linked-list-c/)
 
-[Clone given Linked List
+[Clone given Linked List - DONE
 ](http://www.techiedelight.com/clone-given-linked-list/)
 
-[Delete Linked List
+[Delete Linked List - DONE
 ](http://www.techiedelight.com/delete-linked-list/)
 
-[Pop operation in linked list
+[Pop operation in linked list - DONE
 ](http://www.techiedelight.com/pop-operation-in-linked-list/)
 
-[Insert given node into the correct sorted position in the given sorted linked list
+[Insert given node into the correct sorted position in the given sorted linked list - DONE
 ](http://www.techiedelight.com/sorted-insert-in-linked-list/)
 
 [Given a linked list, change it to be in sorted order
