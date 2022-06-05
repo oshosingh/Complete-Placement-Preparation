@@ -1,6 +1,6 @@
 # BACKTRACKING
 
-[Print all possible solutions to N Queens problem
+[Print all possible solutions to N Queens problem - DONE
 ](http://www.techiedelight.com/print-possible-solutions-n-queens-problem/)
 
 [Print all Possible Knight’s Tours in a chessboard
@@ -12,7 +12,7 @@
 [Find Longest Possible Route in a Matrix
 ](http://www.techiedelight.com/find-longest-possible-route-matrix/)
 
-[Find path from source to destination in a matrix that satisfies given constraints
+[Find path from source to destination in a matrix that satisfies given constraints - DONE
 ](http://www.techiedelight.com/find-path-source-destination-matrix-satisfies-given-constraints/)
 
 [Find total number of unique paths in a maze from source to destination
