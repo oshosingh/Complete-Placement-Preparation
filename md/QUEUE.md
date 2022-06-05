@@ -27,7 +27,7 @@
 [Generate binary numbers between 1 to N
 ](http://www.techiedelight.com/generate-binary-numbers-1-n/)
 
-[Calculate height of a binary tree | Iterative & Recursive
+[Calculate height of a binary tree | Iterative & Recursive - DONE
 ](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
 
 [Delete given Binary Tree | Iterative & Recursive
