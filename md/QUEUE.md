@@ -12,7 +12,7 @@
 [Shortest path in a Maze | Lee algorithm - DONE
 ](http://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/)
 
-[Find shortest safe route in a field with sensors present
+[Find shortest safe route in a field with sensors present - DONE
 ](http://www.techiedelight.com/find-shortest-safe-route-field-sensors-present/)
 
 [Flood fill Algorithm
