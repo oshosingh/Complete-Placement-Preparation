@@ -1,15 +1,15 @@
 # QUEUE
 
-[Queue Implementation
+[Queue Implementation - DONE
 ](http://www.techiedelight.com/circular-queue-implementation-c/)
 
-[Queue Implementation using Linked List
+[Queue Implementation using Linked List - DONE
 ](http://www.techiedelight.com/queue-implementation-using-linked-list/)
 
-[Chess Knight Problem – Find Shortest path from source to destination
+[Chess Knight Problem – Find Shortest path from source to destination - DONE
 ](http://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/)
 
-[Shortest path in a Maze | Lee algorithm
+[Shortest path in a Maze | Lee algorithm - DONE
 ](http://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/)
 
 [Find shortest safe route in a field with sensors present
@@ -18,7 +18,7 @@
 [Flood fill Algorithm
 ](http://www.techiedelight.com/flood-fill-algorithm/)
 
-[Count the number of islands
+[Count the number of islands - DONE
 ](http://www.techiedelight.com/count-the-number-of-islands/)
 
 [Find Shortest path from source to destination in a matrix that satisfies given constraints
